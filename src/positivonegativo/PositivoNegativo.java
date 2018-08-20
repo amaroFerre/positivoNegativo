@@ -19,6 +19,10 @@ public class PositivoNegativo {
     
     private int numero;
     
+    // Creo un objeto de tipo Scanner
+    
+    Scanner entrada = new Scanner(System.in);
+    
     
     
 }
