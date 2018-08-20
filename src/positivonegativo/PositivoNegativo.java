@@ -15,4 +15,10 @@ import java.util.*;
  */
 public class PositivoNegativo {
     
+    // Declaro una variable de tipo entero
+    
+    private int numero;
+    
+    
+    
 }
